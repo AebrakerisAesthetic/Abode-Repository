@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/purple_dye",
+  "textures": {
+    "layer0": "minecraft:block/fern"
+  }
+}
