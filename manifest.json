@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "AbodePack_17",
+    "description": "By Ozymoronic",
+    "uuid": "630d0b31-5ac8-cc4f-e3fa-9553d81d7fc2",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 100]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "eca40275-3b9b-0085-25cd-b9ad901ecdb0",
+      "version": [1, 0, 0]
+    }
+  ],
+  "capabilities": ["raytraced"]
+}

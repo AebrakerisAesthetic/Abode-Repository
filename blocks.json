@@ -1,0 +1,7 @@
+{
+   "dirt" : {
+      "isotropic" : false,
+      "sound" : "gravel",
+      "textures" : "flattened_dirt"
+   }
+}
