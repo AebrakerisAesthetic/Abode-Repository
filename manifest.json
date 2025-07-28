@@ -1,7 +1,11 @@
 {
   "format_version": 2,
   "header": {
+<<<<<<< Updated upstream
     "name": "Abode Resource pack",
+=======
+    "name": "Abode Resource Pack",
+>>>>>>> Stashed changes
     "description": "By Ozymoronic and Zeuselpro",
     "uuid": "630d0b31-5ac8-cc4f-e3fa-9553d81d7fc2",
     "version": [1, 0, 0],
