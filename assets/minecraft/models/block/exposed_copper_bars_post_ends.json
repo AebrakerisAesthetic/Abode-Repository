@@ -1,0 +1,9 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/template_bars_post_ends",
+	"textures": {
+		"bars": "block/copper_bars",
+		"edge": "block/copper_bars"
+	}
+}

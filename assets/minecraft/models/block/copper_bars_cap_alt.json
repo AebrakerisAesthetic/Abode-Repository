@@ -1,0 +1,36 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/template_bars_cap_alt",
+	"ambientocclusion": false,
+	"textures": {
+		"3": "block/copper_bars_leg",
+		"particle": "block/iron_bars"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 7],
+			"to": [8, 16, 8],
+			"faces": {
+				"east": {"uv": [2, 0, 1, 16], "texture": "#3"},
+				"west": {"uv": [1, 0, 2, 16], "texture": "#3"}
+			}
+		},
+		{
+			"from": [7, 0, 7],
+			"to": [9, 16, 7],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 16], "texture": "#3"},
+				"south": {"uv": [2, 0, 0, 16], "texture": "#3"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "iron_bars_cap_alt",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}
