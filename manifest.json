@@ -18,21 +18,31 @@
      {
         "folder_name": "basic",
         "name": "Default",
+        "description": "Abode default textures, don't try VV or RTX with this subpack.",
         "memory_performance_tier": 1
      },
     {
         "folder_name": "rtx",
         "name": "RTX basic",
+        "description": "RTX suport if you wanna use Ray Tracing",
         "memory_performance_tier": 1
      },
     {
 	"folder_name": "enhanced rtx",
 	"name": "Enhanced RTX",
+  "description": "The best subpack RTX for Abode(Alpha)",
+	"memory_performance_tier": 1
+     },
+     {
+	"folder_name": "32x",
+	"name": "32x textures (ALPHA)",
+  "description": "Abode default textures now on 32x, don't try VV or RTX with this subpack.",
 	"memory_performance_tier": 1
      },
   {
 	"folder_name": "vv",
-	"name": "Vibrant_Visuals",
+	"name": "Vibrant Visuals",
+  "description": "The correct subpack to use VV with Abode",
 	"memory_performance_tier": 1
      }
    ],
