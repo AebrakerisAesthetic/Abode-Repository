@@ -14,5 +14,27 @@
       "version": [1, 0, 0]
     }
   ],
-  "capabilities": ["raytraced"]
+   "subpacks": [
+     {
+        "folder_name": "basic",
+        "name": "Default",
+        "memory_performance_tier": 1
+     },
+    {
+        "folder_name": "rtx",
+        "name": "RTX basic",
+        "memory_performance_tier": 1
+     },
+    {
+	"folder_name": "enhanced rtx",
+	"name": "Enhanced RTX",
+	"memory_performance_tier": 1
+     },
+  {
+	"folder_name": "vv",
+	"name": "Vibrant_Visuals",
+	"memory_performance_tier": 1
+     }
+   ],
+  "capabilities": ["raytraced","pbr"]
 }
