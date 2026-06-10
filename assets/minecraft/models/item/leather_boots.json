@@ -64,6 +64,6 @@
   ],
   "textures": {
     "layer0": "minecraft:item/leather_boots",
-    "layer1": "minecraft:item/leather_boots_overlay"
+    "layer1": "minecraft:item/leather_boots"
   }
 }
