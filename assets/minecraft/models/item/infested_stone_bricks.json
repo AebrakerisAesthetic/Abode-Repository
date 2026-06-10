@@ -1,0 +1,6 @@
+{
+ "parent": "block/stone_bricks",
+  "textures": {
+    "layer0": "block/stone_bricks"
+  }
+}

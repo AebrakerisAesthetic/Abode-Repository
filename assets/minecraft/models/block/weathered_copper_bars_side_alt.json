@@ -1,0 +1,28 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/template_bars_side_alt",
+	"ambientocclusion": false,
+	"textures": {
+		"edge": "block/weathered_copper_bars",
+		"particle": "block/iron_bars"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 8],
+			"to": [8, 16, 16],
+			"faces": {
+				"east": {"uv": [0, 0, 8, 16], "texture": "#edge"},
+				"west": {"uv": [8, 0, 0, 16], "texture": "#edge"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "iron_bars_side_alt",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}
